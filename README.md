@@ -35,3 +35,5 @@ Microsoft Windows 10商店也有哦~:kissing_heart:（免费）
 下载地址：https://chrisandriessen.nl/taskbarx
 Microsoft Windows 10商店也可购买付费版，自动更新只要￥8:kissing_heart:，支持一波血赚不亏~:joy:
 安装启动任务栏icon即可自动居中，个性设置请参考作者官方文档介绍
+
+### 未完待续...
